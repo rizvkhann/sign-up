@@ -1,0 +1,56 @@
+body {
+	font-family: 'Roboto', sans-serif;
+    
+    background:url(../img/signup1.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.conteiner {
+	width: 700px;
+	margin: 10px auto;
+
+}
+
+
+.signup-section {
+	background-color: #545f9e5c;
+    padding: 34px;
+}
+
+.signup-section img{
+
+	display: block;
+	margin: 0px auto;
+}
+
+.form-control {
+
+    width: 99%;
+
+    height: 35px;
+
+    margin: 8px;
+
+    padding: 5px;
+}
+
+.submit-btn {
+
+    margin: 0 auto;
+
+    display: block;
+
+    padding: 10px;
+
+    color: brown;
+
+    background-color: burlywood;
+
+    text-transform: uppercase;
+}
+
+.submit-btn:hover {
+	box-shadow: 3px 5px 6px;
+	cursor: pointer;
+}
